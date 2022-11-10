@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gentle Cookies</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+	header {
+		font-size: 30px;
+		font-style: monospace;
+		text-align: center;
+		background-color: yellow;
+		color: white;
+		padding: 20px;
+		border-radius: 4px;
+		border: double;
+		border-color: green;
+		}
+	body {
+		background-color: brown;
+		font-family: "Times New Roman", Times, serif;
+		color: white;
+		}
+	h1 {
+		text-align: center;
+		}
+	p.small {
+		line-height: 0.1;
+	}
+	p.thicker {
+	font-weight: 900;
+	}
+	p.double {
+		border-style: double;
+		border-width: 20px;
+		text-align: center;
+	}
+	img {
+	width: 300px;
+	border-radius: 9px;
+	}
+hr {
+	width: 200px;
+	}
+p.center {
+	text-align: center;
+	}
+i {
+	background-color: yellow;
+	color: white;
+	padding: 10px;
+	border-radius: 3px;
+	margin-left: 50px;
+	}
+</style>
+</head>
+<body>
+	<header><span style="color: blue;">GENTLE</span> COOKIEE</header><br>
+	<img src="/storage/7F02-130B/PhoneMaster/Images/Screenshots/Screenshot_20221101-203116.png">
+<p class="center">We invite you to sit back, unwind and delight to the eligant
+atmosphere of Mariner's Bistro while our chef take you on a curinary experience of contemporary, seasonal local cuisine with elements of rustic italian cooking</p>
+<img src="/storage/7F02-130B/PhoneMaster/Images/Download/IMG_2137-scaled-pnkb3i2rjis2m79hvzhglnjh0ozpnsikxo98g8abmg.jpg" style="width:300px;">
+<h1 class="thicker">MENU</h1>
+<p class="center">delight in prime steaks home made pastas,fresh salads and exquisite
+sea food</p>
+<p class="double">FOOD MENU</p>
+<img src="/storage/7F02-130B/PhoneMaster/Images/Download/IMG_2223-scaled-pnkb3i2rjis2m79hvzhglnjh0ozpnsikxo98g8abmg.jpg">
+<h1>BAR</h1>
+<p class="center">An eclectic list and a knowledgeable staff make for perfect pairing</p>
+<p class="double">DRINK MENU</p>
+<img src="/storage/emulated/0/Download/PHXDownloads/1667723718621.jpg">
+<h1>OUR SPACE</h1>
+<p class="center">join us in our large indoors dining area or al fresco our outdoor terrace for daily lunch and dinner service and sunday brunch</p>
+<p class="double">EXPLORE</p>
+<img src="/storage/7F02-130B/PhoneMaster/Images/Download/IMG_2057-683x1024.jpg">
+<marquee behavior="" direction="">ABOUT US</marquee>
+<hr>
+<p class="center">A stunning combination of contemporary American fare with Italian influnces, Mariner's Bistro in Edgewater New Jersey creates a dining experience that is deliciously familiar yet refined and innovative. with elegant indoor and outside dining</p>
+<h1>MARINER'S</h1>
+<h1>BISTRO'S</h1>
+<hr>
+<p>No 1 ST PETER'S CLEVERS RD, OFF ONITSHA RD,</p>
+<p>MONDAY - SATURDAY: 7:00am - 9:00pm</p>
+<p>Open for dinner reservation only</p>
+<p><b>Kitchen closes at 10</b></p>
+<p>Sunday Brunch</p><br>
+<i class="fa fa-facebook" style="color: green;font-size:19px"></i>
+<i class="fa fa-instagram" style="color: blue; font-size:19px;"></i><br>
+<img src="/storage/emulated/0/Pictures/PhotosEditor/Screenshot_20221101-121412~2.png">
+<marquee behavior="" direction="right"
+<p class="center">GENTLE COOKIEE, NG</p>
+ </marquee>
+ <marquee behavior="" direction="left"
+<p class="center">&#169 2022 by prince gentle </p>
+</marquee>
+</body>
+</html>
